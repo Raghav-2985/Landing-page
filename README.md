@@ -3,7 +3,7 @@
 
 A custom landing page built from a design brief provided by [The Odin Project](https://www.theodinproject.com/). 
 
-[**🚀 View Live Demo**](Link to your GitHub Pages here)
+[**🚀 View Live Demo**](https://raghav-2985.github.io/Landing-page/)
 
 ## 📸 Preview
 ![Screenshot of my Landing Page](./image/Site%20Preview.png)
@@ -24,4 +24,4 @@ This site is currently **non-responsive**. For the best experience, please view 
 ## 🤝 Credits
 Design and project brief by [The Odin Project](https://www.theodinproject.com/).
 
-Font (Roboto) taken from [Here](https://fonts.google.com/specimen/Roboto)
+Font (Roboto) provided by [Google Fonts](https://fonts.google.com/specimen/Roboto)
